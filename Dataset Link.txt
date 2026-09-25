@@ -1,0 +1,5 @@
+Dataset 1: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+
+Dataset 2: https://www.kaggle.com/datasets/tapakah68/facial-emotion-recognition
+
+Dataset 3: https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
